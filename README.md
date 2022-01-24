@@ -1,3 +1,19 @@
+## Available Scripts
+
+1.- instalar depencias
+
+npm install
+
+2.- ejecutar app
+
+npm start
+
+--- informacion ---
+
+endpoint - api rest del backend 
+
+http://localhost:3001/crypto
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
