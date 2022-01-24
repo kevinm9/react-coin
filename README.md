@@ -27,3 +27,6 @@ http://localhost:3001/crypto
 
 link del poryecto del backend [node express link](https://github.com/kevinm9/backend-coin).
 
+servidor local laragon version full y solo habilite la base de datos mysql https://laragon.org/
+
+
